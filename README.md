@@ -1,7 +1,9 @@
 # 👋 Hola, soy Fernando Navas
 
 🎓 Estudiante de **Ingeniería en Sistemas de la Información** en la **Pontificia Universidad Católica del Ecuador (PUCE)**.
+
 💻 Desarrollador de software y QA en formación, con experiencia en desarrollo web, backend, bases de datos, automatización de pruebas y despliegue en la nube.
+
 🚀 Me interesa crear soluciones tecnológicas funcionales, escalables y útiles para empresas reales.
 
 ---
