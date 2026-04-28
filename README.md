@@ -267,7 +267,7 @@ Mi objetivo es seguir creciendo como desarrollador de software, con especial int
 ## 📫 Contacto
 
 * GitHub: [@fernandonavas75](https://github.com/fernandonavas75)
-* LinkedIn: [Fernando Navas](https://www.linkedin.com/)
+* LinkedIn: [Fernando Navas](www.linkedin.com/in/fernando-josé-navas-molina-27a0b120b)
 * Ubicación: Ecuador
 
 ---
